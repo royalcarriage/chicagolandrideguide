@@ -83,7 +83,10 @@
         "Sample 150-guest timeline",
         "What to put in the contract"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-26",
+      "published_path": "content/posts/wedding-shuttle-timeline-chicago-venues.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "prom-transportation-guide-chicago-suburbs",

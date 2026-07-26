@@ -1,5 +1,5 @@
 {
-  "at": "2026-07-26T07:34:58.840Z",
+  "at": "2026-07-26T16:20:23.841Z",
   "health": {
     "/": "ERR",
     "/costs/": "ERR",
@@ -17,5 +17,5 @@
       "ok": true
     }
   ],
-  "publishedNow": "{\n  \"published\": \"ohare-to-downtown-car-service-cost\",\n  \"path\": \"content/posts/ohare-to-downtown-car-service-cost.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 11\n}"
+  "publishedNow": "{\n  \"published\": \"wedding-shuttle-timeline-chicago-venues\",\n  \"path\": \"content/posts/wedding-shuttle-timeline-chicago-venues.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 10\n}"
 }
