@@ -61,7 +61,10 @@
         "Meet-and-greet and wait time",
         "Booking timing"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-26",
+      "published_path": "content/posts/ohare-to-downtown-car-service-cost.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "wedding-shuttle-timeline-chicago-venues",
