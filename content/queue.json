@@ -1,0 +1,277 @@
+{
+  "posts": [
+    {
+      "id": "how-much-does-a-party-bus-cost-in-chicago",
+      "slug": "how-much-does-a-party-bus-cost-in-chicago",
+      "title": "How Much Does a Party Bus Cost in Chicago? Real 2026 Ranges",
+      "description": "Typical Chicagoland party bus pricing by group size, hours, day of week, and season — plus what quietly adds to the bill.",
+      "tags": [
+        "costs",
+        "party-bus"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly ranges by bus size",
+        "Weekend vs weekday and seasonal swings",
+        "Fees that surprise people (gratuity, fuel, cleaning)",
+        "4-hour minimums and why they exist",
+        "How to compare quotes fairly"
+      ],
+      "status": "published",
+      "published_at": "2026-07-26",
+      "published_path": "content/posts/how-much-does-a-party-bus-cost-in-chicago.md",
+      "llm_provider": "gemini"
+    },
+    {
+      "id": "limo-cost-chicago-hourly-vs-transfer",
+      "slug": "limo-cost-chicago-hourly-vs-transfer",
+      "title": "Limo Costs in Chicago: Hourly vs Point-to-Point, Explained",
+      "description": "When hourly booking beats a flat transfer, realistic stretch and sedan ranges, and the math for wedding-day timelines.",
+      "tags": [
+        "costs",
+        "limo"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Hourly vs transfer pricing",
+        "Sedan, SUV, stretch: realistic ranges",
+        "Wedding-day example math",
+        "When hourly wins",
+        "Deposit and cancellation norms"
+      ],
+      "status": "published",
+      "published_at": "2026-07-26",
+      "published_path": "content/posts/limo-cost-chicago-hourly-vs-transfer.md",
+      "llm_provider": "gemini"
+    },
+    {
+      "id": "ohare-to-downtown-car-service-cost",
+      "slug": "ohare-to-downtown-car-service-cost",
+      "title": "O'Hare to Downtown: What Car Service Really Costs",
+      "description": "Black car vs rideshare vs taxi from ORD to the Loop — realistic totals with tolls, airport fees, and meet-and-greet.",
+      "tags": [
+        "costs",
+        "airport"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "The realistic total by option",
+        "Airport pickup logistics at ORD",
+        "When black car beats rideshare",
+        "Meet-and-greet and wait time",
+        "Booking timing"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "wedding-shuttle-timeline-chicago-venues",
+      "slug": "wedding-shuttle-timeline-chicago-venues",
+      "title": "Wedding Shuttle Timelines That Work for Chicago Venues",
+      "description": "How to build a guest shuttle schedule that survives Chicago traffic — loops, staging, and the buffer nobody plans for.",
+      "tags": [
+        "guides",
+        "wedding"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Loop vs point-to-point shuttles",
+        "Timing against ceremony and last dance",
+        "Staging at downtown vs suburban venues",
+        "Sample 150-guest timeline",
+        "What to put in the contract"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "prom-transportation-guide-chicago-suburbs",
+      "slug": "prom-transportation-guide-chicago-suburbs",
+      "title": "Prom Transportation in the Chicago Suburbs: A Parent's Guide",
+      "description": "Costs, group sizes, contracts, and the rules that matter when booking prom rides in Chicagoland — written for parents.",
+      "tags": [
+        "events",
+        "prom"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "What prom groups actually pay",
+        "Booking window (why April is too late)",
+        "Chaperone and conduct policies",
+        "Splitting costs between families",
+        "Red flags in cheap quotes"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "party-bus-vs-limo-chicago-night-out",
+      "slug": "party-bus-vs-limo-chicago-night-out",
+      "title": "Party Bus vs Limo for a Chicago Night Out: Which Fits Your Group",
+      "description": "Capacity, cost per person, and logistics compared for River North, Fulton Market, and Wrigleyville nights.",
+      "tags": [
+        "guides",
+        "comparison"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Cost per person math",
+        "Standing room vs seated",
+        "Where each can actually stop downtown",
+        "Group size cutoffs",
+        "Decision table"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "sprinter-van-rental-cost-chicago",
+      "slug": "sprinter-van-rental-cost-chicago",
+      "title": "Sprinter Van Rentals in Chicago: Costs and When They Beat a Limo",
+      "description": "Executive sprinter pricing for Chicagoland, what's included, and the trips where a sprinter is the right call.",
+      "tags": [
+        "costs",
+        "sprinter"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly ranges",
+        "Executive vs party configurations",
+        "Airport group runs",
+        "Wine tours and day trips",
+        "What to verify before booking"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "soldier-field-gameday-group-transportation",
+      "slug": "soldier-field-gameday-group-transportation",
+      "title": "Soldier Field Game Days: Group Transportation That Actually Works",
+      "description": "Parking reality, drop zones, tailgate logistics, and what groups pay to get to Bears games without the headache.",
+      "tags": [
+        "events",
+        "sports"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "Drop-off and staging reality",
+        "Tailgate-friendly options",
+        "Cost ranges for game-day charters",
+        "Timing around kickoff and exits",
+        "Winter game considerations"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "holiday-party-transportation-chicago-december",
+      "slug": "holiday-party-transportation-chicago-december",
+      "title": "December Holiday Party Transportation in Chicago: Book Early, Pay Less",
+      "description": "Why December is the hardest month to book in Chicagoland, realistic corporate shuttle costs, and timing that saves money.",
+      "tags": [
+        "events",
+        "holiday",
+        "corporate"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "Why December sells out",
+        "Corporate shuttle cost ranges",
+        "Friday vs Saturday pricing",
+        "Booking timeline that works",
+        "Weather contingencies"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "how-far-in-advance-book-party-bus-chicago",
+      "slug": "how-far-in-advance-book-party-bus-chicago",
+      "title": "How Far in Advance Should You Book a Party Bus in Chicago?",
+      "description": "Booking windows by season and event type — when prices climb, when inventory vanishes, and when last-minute works.",
+      "tags": [
+        "guides",
+        "booking"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "The demand calendar (prom, weddings, December)",
+        "Booking windows by event type",
+        "Last-minute reality",
+        "Deposits and holds",
+        "Cancellation terms to check"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "quinceanera-transportation-guide-chicago",
+      "slug": "quinceanera-transportation-guide-chicago",
+      "title": "Quinceañera Transportation in Chicago: Options, Costs, Traditions",
+      "description": "Party bus, limo, and classic car options for quinceañeras across Chicagoland — costs, timelines, and photo-stop planning.",
+      "tags": [
+        "events",
+        "quinceanera"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "Vehicle options and what they cost",
+        "Timeline: mass, photos, reception",
+        "Photo stop locations",
+        "Decor policies",
+        "Family budgeting tips"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "midway-airport-group-pickup-guide",
+      "slug": "midway-airport-group-pickup-guide",
+      "title": "Midway Airport Group Pickups: The No-Stress Guide",
+      "description": "Where cars can actually wait at MDW, group van/sprinter costs to the suburbs, and flight-delay handling.",
+      "tags": [
+        "guides",
+        "airport"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "MDW pickup zones explained",
+        "Group vehicle cost ranges to suburbs",
+        "Flight tracking and wait-time policies",
+        "Late-night arrivals",
+        "MDW vs ORD differences"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "lollapalooza-group-transportation-guide",
+      "slug": "lollapalooza-group-transportation-guide",
+      "title": "Getting a Group to Lollapalooza: Drop Zones, Costs, Exit Plans",
+      "description": "Grant Park closures, realistic drop points, charter costs from the suburbs, and the exit plan that beats surge pricing.",
+      "tags": [
+        "events",
+        "festivals"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "Street closures around Grant Park",
+        "Realistic drop and pickup points",
+        "Suburb charter cost math vs rideshare surge",
+        "Exit strategy after headliners",
+        "What veterans do differently"
+      ],
+      "status": "queued"
+    },
+    {
+      "id": "chicago-wedding-venue-guest-transportation",
+      "slug": "chicago-wedding-venue-guest-transportation",
+      "title": "Getting Guests to Chicago Wedding Venues: Parking, Shuttles, Timing",
+      "description": "The guest transportation decision for downtown vs suburban Chicago venues — when you need shuttles and when you don't.",
+      "tags": [
+        "venues",
+        "wedding"
+      ],
+      "hub": "/venues/",
+      "outline": [
+        "When a venue forces the shuttle decision",
+        "Downtown parking reality",
+        "Hotel block logistics",
+        "Cost per guest math",
+        "Questions to ask the venue"
+      ],
+      "status": "queued"
+    }
+  ]
+}

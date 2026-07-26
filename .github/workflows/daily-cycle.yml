@@ -1,0 +1,52 @@
+name: Daily autonomous cycle
+
+on:
+  schedule:
+    # Daily 16:00 UTC (~11am Chicago) — offset from AF cycles to spread Gemini quota
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clrg-git-main
+  cancel-in-progress: false
+
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Run daily cycle (plan → seed → publish → rebuild)
+        env:
+          AF_ZERO_COST: "1"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_URL: https://chicagolandrideguide.com
+          BASE_PATH: ""
+        run: node scripts/daily-cycle.mjs
+      - name: IndexNow ping (non-fatal)
+        env:
+          SITE_URL: https://chicagolandrideguide.com
+        run: node scripts/indexnow-ping.mjs --recent 5 || true
+      - name: Commit state + content
+        run: |
+          set -euo pipefail
+          git config user.name "clrg-autonomous-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "agent(cycle): daily $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race attempt $i — retry"
+            sleep $((i * 2))
+          done
+          echo "Failed to push after retries" >&2
+          exit 1

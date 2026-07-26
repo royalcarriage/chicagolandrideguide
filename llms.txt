@@ -1,0 +1,15 @@
+# Chicagoland Ride Guide
+> Independent guide to ground transportation costs, planning, and venues across Chicagoland.
+> Real price data, event logistics, and vehicle guides for Chicago and its suburbs.
+
+## Primary
+- https://chicagolandrideguide.com/
+- https://chicagolandrideguide.com/costs/
+- https://chicagolandrideguide.com/guides/
+- https://chicagolandrideguide.com/events/
+- https://chicagolandrideguide.com/venues/
+- https://chicagolandrideguide.com/blog/
+
+## Blog posts
+- https://chicagolandrideguide.com/blog/how-much-does-a-party-bus-cost-in-chicago/
+- https://chicagolandrideguide.com/blog/limo-cost-chicago-hourly-vs-transfer/

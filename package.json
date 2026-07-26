@@ -1,0 +1,11 @@
+{
+  "name": "chicagolandrideguide",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "build": "node scripts/build-blog.mjs && node scripts/build-hubs.mjs && node scripts/build-sitemap.mjs && node scripts/fix-canonicals.mjs",
+    "pipeline": "node scripts/publish-next.mjs && npm run build"
+  }
+}

@@ -1,0 +1,67 @@
+name: Content pipeline
+
+on:
+  schedule:
+    # Tuesdays + Fridays 17:00 UTC
+    - cron: "0 17 * * 2,5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Build only; do not publish next queue item"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clrg-git-main
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - name: Publish next queued post (zero-cost)
+        if: ${{ inputs.dry_run != true }}
+        env:
+          AF_ZERO_COST: "1"
+          AF_USE_LLM: "1"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_URL: https://chicagolandrideguide.com
+          BASE_PATH: ""
+        run: node scripts/publish-next.mjs
+      - name: Build blog + hubs + sitemap + canonicals
+        env:
+          SITE_URL: https://chicagolandrideguide.com
+          BASE_PATH: ""
+        run: |
+          node scripts/build-blog.mjs
+          node scripts/build-hubs.mjs
+          node scripts/build-sitemap.mjs
+          node scripts/fix-canonicals.mjs
+      - name: IndexNow ping (non-fatal)
+        env:
+          SITE_URL: https://chicagolandrideguide.com
+        run: node scripts/indexnow-ping.mjs --recent 8 || true
+      - name: Commit & push if changed
+        run: |
+          set -euo pipefail
+          git config user.name "clrg-pipeline"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "content(pipeline): publish + rebuild $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race attempt $i — retry"
+            sleep $((i * 2))
+          done
+          echo "Failed to push after retries" >&2
+          exit 1
