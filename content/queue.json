@@ -105,7 +105,10 @@
         "Splitting costs between families",
         "Red flags in cheap quotes"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-27",
+      "published_path": "content/posts/prom-transportation-guide-chicago-suburbs.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "party-bus-vs-limo-chicago-night-out",
