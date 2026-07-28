@@ -127,7 +127,10 @@
         "Group size cutoffs",
         "Decision table"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-28",
+      "published_path": "content/posts/party-bus-vs-limo-chicago-night-out.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "sprinter-van-rental-cost-chicago",
