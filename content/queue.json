@@ -149,7 +149,10 @@
         "Wine tours and day trips",
         "What to verify before booking"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-28",
+      "published_path": "content/posts/sprinter-van-rental-cost-chicago.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "soldier-field-gameday-group-transportation",
