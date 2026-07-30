@@ -194,7 +194,10 @@
         "Booking timeline that works",
         "Weather contingencies"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-30",
+      "published_path": "content/posts/holiday-party-transportation-chicago-december.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-far-in-advance-book-party-bus-chicago",
