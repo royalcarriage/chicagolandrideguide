@@ -216,7 +216,10 @@
         "Deposits and holds",
         "Cancellation terms to check"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-31",
+      "published_path": "content/posts/how-far-in-advance-book-party-bus-chicago.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "quinceanera-transportation-guide-chicago",
@@ -293,6 +296,132 @@
         "Questions to ask the venue"
       ],
       "status": "queued"
+    },
+    {
+      "id": "cost-of-sprinter-van-rental-for-suburb-weddings-near-chicago",
+      "slug": "cost-of-sprinter-van-rental-for-suburb-weddings-near-chicago",
+      "title": "Cost of Sprinter Van Rental for Suburb Weddings Near Chicago",
+      "description": "Understand the typical costs and factors influencing sprinter van rental prices for suburban Chicago weddings, including hourly rates, mileage, and additional fees. This guide helps budget for guest transportation for your special day.",
+      "tags": [
+        "sprinter van rental cost",
+        "suburban wedding transportation",
+        "chicago wedding guest shuttle",
+        "wedding transport budget"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly rates for sprinter van rentals in Chicagoland suburbs",
+        "Factors affecting cost: vehicle size, duration, mileage, time of year",
+        "Hidden fees and gratuity considerations",
+        "Comparing sprinter van costs to other group transportation options for weddings"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-group-transportation-for-a-chicago-lollapalooza-weekend",
+      "slug": "planning-group-transportation-for-a-chicago-lollapalooza-weekend",
+      "title": "Planning Group Transportation for a Chicago Lollapalooza Weekend",
+      "description": "Navigate the complexities of booking group transportation for Lollapalooza in Chicago. This guide covers options like party buses, shuttles, and sprinter vans, offering advice on booking timelines, logistics, and cost-saving strategies for festival attendees.",
+      "tags": [
+        "lollapalooza transportation",
+        "chicago group transport",
+        "festival shuttle service",
+        "party bus booking"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Best transportation options for Lollapalooza groups (party bus, shuttle, sprinter)",
+        "When to book: typical booking windows and last-minute advice",
+        "Logistical considerations: drop-off/pick-up points, traffic management",
+        "Estimating total cost for group transportation for a weekend festival"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-party-bus-cost-for-a-bears-game-at-soldier-field",
+      "slug": "how-much-does-a-party-bus-cost-for-a-bears-game-at-soldier-field",
+      "title": "How Much Does a Party Bus Cost for a Bears Game at Soldier Field?",
+      "description": "Get an estimate of party bus rental costs for attending Chicago Bears games at Soldier Field. This guide breaks down pricing by duration, vehicle capacity, and potential add-ons, helping fans plan their gameday transportation budget.",
+      "tags": [
+        "party bus cost",
+        "bears game transportation",
+        "soldier field shuttle",
+        "chicago gameday transport"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly rates for party buses for sporting events",
+        "Factors influencing cost: game day demand, vehicle size, rental duration",
+        "Understanding package deals vs. hourly rentals",
+        "Budgeting for parking passes and driver gratuity"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "timeline-for-booking-wedding-shuttles-for-chicago-venues-a-seasonal-guide",
+      "slug": "timeline-for-booking-wedding-shuttles-for-chicago-venues-a-seasonal-guide",
+      "title": "Timeline for Booking Wedding Shuttles for Chicago Venues: A Seasonal Guide",
+      "description": "Discover the ideal booking timeline for wedding shuttles at Chicago venues, considering seasonal demand. Learn when to book for peak wedding months (June-October) to secure your preferred transportation and avoid disappointment.",
+      "tags": [
+        "wedding shuttle booking timeline",
+        "chicago wedding venues",
+        "seasonal transport planning",
+        "wedding guest logistics"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Recommended booking windows for spring, summer, and fall weddings",
+        "Impact of venue size and guest count on booking urgency",
+        "What to expect when booking shuttle services 6-12 months out",
+        "Tips for securing transportation during peak wedding season"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-breakdown-limo-vs-sprinter-van-for-prom-night-in-chicago-suburbs",
+      "slug": "cost-breakdown-limo-vs-sprinter-van-for-prom-night-in-chicago-suburbs",
+      "title": "Cost Breakdown: Limo vs. Sprinter Van for Prom Night in Chicago Suburbs",
+      "description": "Compare the estimated costs of renting a limo versus a sprinter van for prom night in Chicago's suburbs. This guide helps parents and students make informed decisions based on budget, group size, and desired amenities.",
+      "tags": [
+        "prom transportation cost",
+        "limo rental chicago suburbs",
+        "sprinter van rental chicago suburbs",
+        "prom budget"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly rates for limos and sprinter vans for proms",
+        "Factors impacting cost: vehicle capacity, amenities, and duration",
+        "Hidden fees and gratuity expectations for prom rentals",
+        "Comparing value and experience between limo and sprinter van options"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-a-holiday-party-shuttle-service-chicago-downtown-vs-suburbs",
+      "slug": "planning-a-holiday-party-shuttle-service-chicago-downtown-vs-suburbs",
+      "title": "Planning a Holiday Party Shuttle Service: Chicago Downtown vs. Suburbs",
+      "description": "This guide helps you plan effective shuttle services for holiday parties, addressing the unique logistical challenges and cost considerations for both downtown Chicago and its surrounding suburbs.",
+      "tags": [
+        "holiday party shuttle",
+        "chicago group transportation",
+        "suburban holiday party",
+        "event logistics"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Key differences in shuttle planning for downtown vs. suburban holiday parties",
+        "Estimating shuttle needs based on venue location and guest numbers",
+        "Cost factors: distance, time of day, and vehicle type",
+        "Best practices for booking and managing shuttle services during the busy holiday season"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
