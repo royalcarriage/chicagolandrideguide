@@ -238,7 +238,10 @@
         "Decor policies",
         "Family budgeting tips"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-07-31",
+      "published_path": "content/posts/quinceanera-transportation-guide-chicago.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "midway-airport-group-pickup-guide",
