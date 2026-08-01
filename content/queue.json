@@ -260,7 +260,10 @@
         "Late-night arrivals",
         "MDW vs ORD differences"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-08-01",
+      "published_path": "content/posts/midway-airport-group-pickup-guide.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "lollapalooza-group-transportation-guide",
