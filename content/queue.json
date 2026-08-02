@@ -282,7 +282,10 @@
         "Exit strategy after headliners",
         "What veterans do differently"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-08-02",
+      "published_path": "content/posts/lollapalooza-group-transportation-guide.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "chicago-wedding-venue-guest-transportation",
