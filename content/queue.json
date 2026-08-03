@@ -304,7 +304,10 @@
         "Cost per guest math",
         "Questions to ask the venue"
       ],
-      "status": "queued"
+      "status": "published",
+      "published_at": "2026-08-03",
+      "published_path": "content/posts/chicago-wedding-venue-guest-transportation.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-sprinter-van-rental-for-suburb-weddings-near-chicago",
