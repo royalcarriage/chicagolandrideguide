@@ -327,8 +327,11 @@
         "Hidden fees and gratuity considerations",
         "Comparing sprinter van costs to other group transportation options for weddings"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-04",
+      "published_path": "content/posts/cost-of-sprinter-van-rental-for-suburb-weddings-near-chicago.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-group-transportation-for-a-chicago-lollapalooza-weekend",
