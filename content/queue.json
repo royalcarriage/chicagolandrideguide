@@ -351,8 +351,11 @@
         "Logistical considerations: drop-off/pick-up points, traffic management",
         "Estimating total cost for group transportation for a weekend festival"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-04",
+      "published_path": "content/posts/planning-group-transportation-for-a-chicago-lollapalooza-weekend.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-party-bus-cost-for-a-bears-game-at-soldier-field",
