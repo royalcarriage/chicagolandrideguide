@@ -375,8 +375,11 @@
         "Understanding package deals vs. hourly rentals",
         "Budgeting for parking passes and driver gratuity"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-05",
+      "published_path": "content/posts/how-much-does-a-party-bus-cost-for-a-bears-game-at-soldier-field.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "timeline-for-booking-wedding-shuttles-for-chicago-venues-a-seasonal-guide",
@@ -437,6 +440,138 @@
         "Estimating shuttle needs based on venue location and guest numbers",
         "Cost factors: distance, time of day, and vehicle type",
         "Best practices for booking and managing shuttle services during the busy holiday season"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-airport-shuttle-for-groups-from-o-hare-to-schaumburg",
+      "slug": "cost-of-airport-shuttle-for-groups-from-o-hare-to-schaumburg",
+      "title": "Cost of Airport Shuttle for Groups from O'Hare to Schaumburg",
+      "description": "Understand the typical costs involved in booking group shuttle services from O'Hare International Airport (ORD) to Schaumburg, IL, for business trips, family reunions, or conventions. This guide breaks down factors influencing pricing.",
+      "tags": [
+        "airport shuttle",
+        "O'Hare",
+        "Schaumburg",
+        "group transportation",
+        "cost"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average shuttle costs for different group sizes (e.g., 10-20, 20-30 people)",
+        "Factors affecting price: vehicle type (van, minibus), time of day, day of week",
+        "Additional fees to consider: tolls, driver gratuity, waiting time",
+        "Tips for getting the best price on your Schaumburg airport shuttle"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-a-wedding-shuttle-service-for-suburban-chicago-venues-a-timeline",
+      "slug": "planning-a-wedding-shuttle-service-for-suburban-chicago-venues-a-timeline",
+      "title": "Planning a Wedding Shuttle Service for Suburban Chicago Venues: A Timeline",
+      "description": "Navigate the essential timeline for planning and booking wedding shuttle services for popular suburban Chicago wedding venues. Ensure smooth guest transportation from hotels to venues and back.",
+      "tags": [
+        "wedding shuttle",
+        "suburban Chicago",
+        "wedding planning",
+        "timeline",
+        "guest transportation"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "When to book your shuttle service (e.g., 6-9 months out)",
+        "Gathering guest accommodation and venue information",
+        "Determining shuttle routes and pick-up/drop-off points",
+        "Confirming final guest counts and logistics with the shuttle provider"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-sprinter-van-cost-for-a-bachelorette-party-in-chicago-suburbs",
+      "slug": "how-much-does-a-sprinter-van-cost-for-a-bachelorette-party-in-chicago-suburbs",
+      "title": "How Much Does a Sprinter Van Cost for a Bachelorette Party in Chicago Suburbs?",
+      "description": "Get a clear understanding of the hourly and package costs for renting a sprinter van for a bachelorette party in Chicago's surrounding suburbs. Learn what influences the final price.",
+      "tags": [
+        "sprinter van",
+        "bachelorette party",
+        "suburban Chicago",
+        "cost",
+        "hourly rate"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly rates for sprinter van rentals",
+        "Factors influencing bachelorette party pricing: duration, mileage, amenities",
+        "Understanding package deals vs. hourly rentals",
+        "Tips for budgeting your suburban bachelorette party transportation"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "navigating-limo-vs-party-bus-for-a-chicago-cubs-game-day-experience",
+      "slug": "navigating-limo-vs-party-bus-for-a-chicago-cubs-game-day-experience",
+      "title": "Navigating Limo vs. Party Bus for a Chicago Cubs Game Day Experience",
+      "description": "Decide between a limo and a party bus for your group heading to a Chicago Cubs game at Wrigleyville. This guide compares the pros and cons, focusing on group size and game day atmosphere.",
+      "tags": [
+        "Cubs game",
+        "Wrigleyville",
+        "limo",
+        "party bus",
+        "group transportation"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "Capacity differences: Limo vs. Party Bus for sports events",
+        "Amenities and atmosphere: Which best suits your Cubs game day?",
+        "Cost considerations for each vehicle type on game days",
+        "Logistical challenges and benefits of each for Wrigleyville access"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-breakdown-hiring-a-car-service-for-a-business-trip-to-mccormick-place",
+      "slug": "cost-breakdown-hiring-a-car-service-for-a-business-trip-to-mccormick-place",
+      "title": "Cost Breakdown: Hiring a Car Service for a Business Trip to McCormick Place",
+      "description": "Understand the potential costs of booking a car service for business travel to and from McCormick Place, Chicago's convention center. This guide covers airport transfers and local transportation needs.",
+      "tags": [
+        "car service",
+        "McCormick Place",
+        "business travel",
+        "convention",
+        "cost breakdown"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly rates for business car services",
+        "Airport transfer costs from O'Hare and Midway to McCormick Place",
+        "Factors impacting pricing: vehicle class, duration, mileage",
+        "Tips for negotiating corporate rates or packages"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-group-transportation-for-a-suburban-chicago-wedding-ceremony-and-recept",
+      "slug": "planning-group-transportation-for-a-suburban-chicago-wedding-ceremony-and-recept",
+      "title": "Planning Group Transportation for a Suburban Chicago Wedding Ceremony and Reception",
+      "description": "A comprehensive guide to planning seamless group transportation for weddings held across different venues in the Chicago suburbs, covering ceremony-to-reception transfers and guest pick-ups.",
+      "tags": [
+        "wedding transportation",
+        "suburban Chicago",
+        "group travel",
+        "wedding planning",
+        "venue logistics"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Assessing group size and transportation needs",
+        "Choosing the right vehicle types (shuttles, buses, vans)",
+        "Creating efficient pick-up and drop-off schedules",
+        "Communicating transportation details to wedding guests"
       ],
       "status": "queued",
       "source": "daily-cycle"
