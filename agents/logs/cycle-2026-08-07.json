@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-07T16:16:56.867Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"timeline-for-booking-wedding-shuttles-for-chicago-venues-a-seasonal-guide\",\n  \"path\": \"content/posts/timeline-for-booking-wedding-shuttles-for-chicago-venues-a-seasonal-guide.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 8\n}"
+}

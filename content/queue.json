@@ -399,8 +399,11 @@
         "What to expect when booking shuttle services 6-12 months out",
         "Tips for securing transportation during peak wedding season"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-07",
+      "published_path": "content/posts/timeline-for-booking-wedding-shuttles-for-chicago-venues-a-seasonal-guide.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-breakdown-limo-vs-sprinter-van-for-prom-night-in-chicago-suburbs",
