@@ -423,8 +423,11 @@
         "Hidden fees and gratuity expectations for prom rentals",
         "Comparing value and experience between limo and sprinter van options"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-07",
+      "published_path": "content/posts/cost-breakdown-limo-vs-sprinter-van-for-prom-night-in-chicago-suburbs.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-a-holiday-party-shuttle-service-chicago-downtown-vs-suburbs",
