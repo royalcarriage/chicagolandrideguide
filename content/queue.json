@@ -447,8 +447,11 @@
         "Cost factors: distance, time of day, and vehicle type",
         "Best practices for booking and managing shuttle services during the busy holiday season"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-08",
+      "published_path": "content/posts/planning-a-holiday-party-shuttle-service-chicago-downtown-vs-suburbs.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-airport-shuttle-for-groups-from-o-hare-to-schaumburg",

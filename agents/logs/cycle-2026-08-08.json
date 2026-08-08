@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-08T16:06:37.606Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"planning-a-holiday-party-shuttle-service-chicago-downtown-vs-suburbs\",\n  \"path\": \"content/posts/planning-a-holiday-party-shuttle-service-chicago-downtown-vs-suburbs.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 6\n}"
+}
