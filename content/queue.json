@@ -472,8 +472,11 @@
         "Additional fees to consider: tolls, driver gratuity, waiting time",
         "Tips for getting the best price on your Schaumburg airport shuttle"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-09",
+      "published_path": "content/posts/cost-of-airport-shuttle-for-groups-from-o-hare-to-schaumburg.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-a-wedding-shuttle-service-for-suburban-chicago-venues-a-timeline",

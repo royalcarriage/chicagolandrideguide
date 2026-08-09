@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-09T16:07:33.299Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"cost-of-airport-shuttle-for-groups-from-o-hare-to-schaumburg\",\n  \"path\": \"content/posts/cost-of-airport-shuttle-for-groups-from-o-hare-to-schaumburg.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 5\n}"
+}
