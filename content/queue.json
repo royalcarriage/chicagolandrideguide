@@ -522,8 +522,11 @@
         "Understanding package deals vs. hourly rentals",
         "Tips for budgeting your suburban bachelorette party transportation"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-11",
+      "published_path": "content/posts/how-much-does-a-sprinter-van-cost-for-a-bachelorette-party-in-chicago-suburbs.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "navigating-limo-vs-party-bus-for-a-chicago-cubs-game-day-experience",
