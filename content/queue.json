@@ -572,8 +572,11 @@
         "Factors impacting pricing: vehicle class, duration, mileage",
         "Tips for negotiating corporate rates or packages"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-12",
+      "published_path": "content/posts/cost-breakdown-hiring-a-car-service-for-a-business-trip-to-mccormick-place.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-group-transportation-for-a-suburban-chicago-wedding-ceremony-and-recept",
