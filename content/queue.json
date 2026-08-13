@@ -597,8 +597,11 @@
         "Creating efficient pick-up and drop-off schedules",
         "Communicating transportation details to wedding guests"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-13",
+      "published_path": "content/posts/planning-group-transportation-for-a-suburban-chicago-wedding-ceremony-and-recept.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-renting-a-party-bus-for-a-chicago-blackhawks-game-at-the-united-center",
@@ -680,6 +683,112 @@
         "Factors influencing booking urgency (venue location, guest count)",
         "What to expect during the booking process",
         "Contingency planning for last-minute needs"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-private-shuttle-bus-cost-for-chicago-suburban-wedding-transporta",
+      "slug": "how-much-does-a-private-shuttle-bus-cost-for-chicago-suburban-wedding-transporta",
+      "title": "how-much-does-a-private-shuttle-bus-cost-for-chicago-suburban-wedding-transportation",
+      "description": "Understand the average costs associated with renting a private shuttle bus for suburban Chicago weddings, including factors that influence pricing and how to budget effectively.",
+      "tags": [
+        "shuttle bus cost",
+        "suburban wedding transportation",
+        "Chicago wedding planning",
+        "group transportation costs"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Factors influencing shuttle bus rental costs (vehicle size, duration, mileage, time of year)",
+        "Average hourly and per-trip cost ranges for suburban wedding shuttles",
+        "Tips for getting accurate quotes and comparing prices",
+        "Hidden fees to watch out for when booking wedding shuttle services"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget",
+      "slug": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget",
+      "title": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget",
+      "description": "Create a seamless and fun bachelorette party in Chicago by planning a sprinter van itinerary and budget, covering popular activities, transportation logistics, and cost-saving tips.",
+      "tags": [
+        "bachelorette party planning",
+        "sprinter van rental",
+        "Chicago itinerary",
+        "group transportation budget"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Choosing the right sprinter van size for your group",
+        "Sample bachelorette party itineraries with sprinter van logistics",
+        "Estimating costs for sprinter van rental, activities, and food/drinks",
+        "Tips for maximizing fun and minimizing stress on bachelorette party day"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "optimal-booking-timeline-for-chicago-wedding-shuttles-during-peak-season-june-oc",
+      "slug": "optimal-booking-timeline-for-chicago-wedding-shuttles-during-peak-season-june-oc",
+      "title": "optimal-booking-timeline-for-chicago-wedding-shuttles-during-peak-season-june-october",
+      "description": "Navigate the booking process for Chicago wedding shuttles during the busy June to October season. Learn the ideal timeline to secure your preferred vehicles and avoid last-minute stress.",
+      "tags": [
+        "wedding shuttle booking",
+        "Chicago wedding season",
+        "transportation timeline",
+        "event planning"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Why early booking is crucial for peak wedding season",
+        "Recommended booking windows for different wedding sizes and complexities",
+        "Key questions to ask shuttle providers when booking",
+        "Contingency planning for shuttle services during busy periods"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individua",
+      "slug": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individua",
+      "title": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individual-tickets",
+      "description": "Compare the overall cost of renting a party bus for a Chicago Bears game day experience versus purchasing individual tickets and coordinating separate transportation.",
+      "tags": [
+        "party bus cost",
+        "Bears game transportation",
+        "Soldier Field",
+        "group event costs"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Breakdown of party bus rental costs for game days",
+        "Estimated costs of individual game tickets and traditional transportation",
+        "Calculating the value proposition of a party bus for group enjoyment",
+        "Factors that can affect the cost of game day party bus rentals"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may",
+      "slug": "how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may",
+      "title": "how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may",
+      "description": "Get a clear understanding of how to budget for a limo or sprinter van rental for prom night in Chicago during the busy May season, including cost factors and money-saving tips.",
+      "tags": [
+        "prom transportation cost",
+        "limo rental",
+        "sprinter van rental",
+        "Chicago prom budget",
+        "May events"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical pricing structures for prom limos and sprinter vans in May",
+        "Factors that increase prom transportation costs (vehicle type, duration, add-ons)",
+        "Strategies for splitting costs among prom-goers",
+        "Tips for finding affordable yet reliable prom transportation options"
       ],
       "status": "queued",
       "source": "daily-cycle"
