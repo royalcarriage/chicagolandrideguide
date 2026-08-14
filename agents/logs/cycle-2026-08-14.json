@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-14T16:16:50.364Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"cost-of-renting-a-party-bus-for-a-chicago-blackhawks-game-at-the-united-center\",\n  \"path\": \"content/posts/cost-of-renting-a-party-bus-for-a-chicago-blackhawks-game-at-the-united-center.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 8\n}"
+}

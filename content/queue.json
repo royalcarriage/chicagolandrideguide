@@ -621,8 +621,11 @@
         "Estimating costs for different group sizes",
         "Tips for saving money on game day party bus rentals"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-14",
+      "published_path": "content/posts/cost-of-renting-a-party-bus-for-a-chicago-blackhawks-game-at-the-united-center.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-group-transportation-for-a-chicago-wedding-ceremony-and-reception-in-di",
