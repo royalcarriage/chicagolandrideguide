@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-16T16:03:43.341Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"how-far-in-advance-to-book-a-shuttle-service-for-a-suburban-chicago-wedding\",\n  \"path\": \"content/posts/how-far-in-advance-to-book-a-shuttle-service-for-a-suburban-chicago-wedding.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 5\n}"
+}

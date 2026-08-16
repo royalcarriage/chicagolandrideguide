@@ -693,8 +693,11 @@
         "What to expect during the booking process",
         "Contingency planning for last-minute needs"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-16",
+      "published_path": "content/posts/how-far-in-advance-to-book-a-shuttle-service-for-a-suburban-chicago-wedding.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-private-shuttle-bus-cost-for-chicago-suburban-wedding-transporta",
