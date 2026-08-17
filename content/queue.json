@@ -717,8 +717,11 @@
         "Tips for getting accurate quotes and comparing prices",
         "Hidden fees to watch out for when booking wedding shuttle services"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-17",
+      "published_path": "content/posts/how-much-does-a-private-shuttle-bus-cost-for-chicago-suburban-wedding-transporta.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget",

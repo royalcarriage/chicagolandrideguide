@@ -2,9 +2,9 @@
   "company": "Chicagoland Ride Guide",
   "created": "2026-07-26",
   "mission": "Independent Chicagoland ground-transportation cost data and planning guides; monetize via AdSense + disclosed operator referrals.",
-  "cycleCount": 22,
+  "cycleCount": 23,
   "lastCycle": {
-    "at": "2026-08-16T16:03:43.341Z",
+    "at": "2026-08-17T16:04:35.813Z",
     "health": {
       "/": "ERR",
       "/costs/": "ERR",
@@ -12,8 +12,8 @@
       "/sitemap.xml": "ERR",
       "/ads.txt": "ERR"
     },
-    "queued": 5,
-    "published": 30,
+    "queued": 4,
+    "published": 31,
     "publishedNow": true
   }
 }
