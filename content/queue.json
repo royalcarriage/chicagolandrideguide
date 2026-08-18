@@ -741,8 +741,11 @@
         "Estimating costs for sprinter van rental, activities, and food/drinks",
         "Tips for maximizing fun and minimizing stress on bachelorette party day"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-18",
+      "published_path": "content/posts/planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "optimal-booking-timeline-for-chicago-wedding-shuttles-during-peak-season-june-oc",
@@ -804,6 +807,72 @@
         "Factors that increase prom transportation costs (vehicle type, duration, add-ons)",
         "Strategies for splitting costs among prom-goers",
         "Tips for finding affordable yet reliable prom transportation options"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-shuttle",
+      "slug": "how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-shuttle",
+      "title": "How Much Does a Sprinter Van Cost for a Chicago Suburb Wedding Shuttle?",
+      "description": "Get a clear understanding of the pricing involved when renting a sprinter van for wedding transportation in Chicago's surrounding suburbs, including factors that influence cost.",
+      "tags": [
+        "sprinter van cost",
+        "chicago suburbs",
+        "wedding shuttle",
+        "transportation pricing",
+        "event logistics"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly rates for sprinter van wedding shuttles in Chicago suburbs.",
+        "Factors affecting cost: distance, duration, time of day, vehicle amenities.",
+        "Comparing sprinter van costs to other wedding transportation options.",
+        "Tips for getting the best value on your suburban wedding sprinter van rental."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-a-chicago-wedding-shuttle-service-for-suburban-venues-a-timeline",
+      "slug": "planning-a-chicago-wedding-shuttle-service-for-suburban-venues-a-timeline",
+      "title": "Planning a Chicago Wedding Shuttle Service for Suburban Venues: A Timeline",
+      "description": "A detailed timeline to help you plan and book the perfect shuttle service for your wedding guests at suburban Chicago venues, ensuring smooth transportation.",
+      "tags": [
+        "wedding shuttle planning",
+        "chicago suburbs",
+        "venue logistics",
+        "transportation timeline",
+        "event planning"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "When to start researching and booking shuttle services (e.g., 6-12 months out).",
+        "Key milestones: getting quotes, confirming bookings, finalizing guest counts.",
+        "Creating an itinerary for shuttle routes and pick-up/drop-off points.",
+        "Contingency planning and communication with your shuttle provider."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party",
+      "slug": "cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party",
+      "title": "Cost Breakdown: Sprinter Van vs. Party Bus for a Chicago Bachelorette Party",
+      "description": "Analyze the cost differences between renting a sprinter van and a party bus for your Chicago bachelorette party, helping you make an informed budget decision.",
+      "tags": [
+        "sprinter van cost",
+        "party bus cost",
+        "bachelorette party",
+        "chicago transportation",
+        "budget planning"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly rates for sprinter vans and party buses in Chicago.",
+        "Factors that influence pricing for each vehicle type.",
+        "What's included in the cost: amenities, driver, mileage.",
+        "Making the most of your budget: choosing the right vehicle for your group size and activities."
       ],
       "status": "queued",
       "source": "daily-cycle"
