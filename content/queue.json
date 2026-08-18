@@ -765,8 +765,11 @@
         "Key questions to ask shuttle providers when booking",
         "Contingency planning for shuttle services during busy periods"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-18",
+      "published_path": "content/posts/optimal-booking-timeline-for-chicago-wedding-shuttles-during-peak-season-june-oc.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individua",
