@@ -1,0 +1,26 @@
+{
+  "at": "2026-08-19T16:06:37.150Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "seed_topics",
+      "ok": true,
+      "added": 1
+    },
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individua\",\n  \"path\": \"content/posts/cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individua.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 5\n}"
+}

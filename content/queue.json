@@ -789,8 +789,11 @@
         "Calculating the value proposition of a party bus for group enjoyment",
         "Factors that can affect the cost of game day party bus rentals"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-19",
+      "published_path": "content/posts/cost-of-renting-a-party-bus-for-a-chicago-bears-game-day-experience-vs-individua.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may",
@@ -876,6 +879,28 @@
         "Factors that influence pricing for each vehicle type.",
         "What's included in the cost: amenities, driver, mileage.",
         "Making the most of your budget: choosing the right vehicle for your group size and activities."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transporta",
+      "slug": "how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transporta",
+      "title": "How Much Does a Private Shuttle Bus Cost for Suburban Chicago Wedding Transportation?",
+      "description": "Understand the pricing factors and typical costs associated with renting a private shuttle bus for wedding transportation in Chicago's suburbs, covering different vehicle sizes and service durations.",
+      "tags": [
+        "wedding transportation",
+        "shuttle bus cost",
+        "suburban Chicago",
+        "wedding planning",
+        "group transportation"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Factors influencing shuttle bus costs (vehicle size, hours, mileage, date)",
+        "Average cost ranges for different shuttle bus capacities",
+        "Tips for getting accurate quotes and budgeting for shuttle services",
+        "Comparing shuttle bus costs to other wedding transportation options"
       ],
       "status": "queued",
       "source": "daily-cycle"
