@@ -1,0 +1,26 @@
+{
+  "at": "2026-08-20T16:07:50.189Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "seed_topics",
+      "ok": true,
+      "added": 2
+    },
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may\",\n  \"path\": \"content/posts/how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 6\n}"
+}

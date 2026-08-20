@@ -814,8 +814,11 @@
         "Strategies for splitting costs among prom-goers",
         "Tips for finding affordable yet reliable prom transportation options"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-20",
+      "published_path": "content/posts/how-to-budget-for-a-chicago-prom-night-limo-or-sprinter-van-rental-in-may.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-shuttle",
@@ -901,6 +904,50 @@
         "Average cost ranges for different shuttle bus capacities",
         "Tips for getting accurate quotes and budgeting for shuttle services",
         "Comparing shuttle bus costs to other wedding transportation options"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-a-private-shuttle-bus-for-suburban-chicago-wedding-transport-a-detailed-",
+      "slug": "cost-of-a-private-shuttle-bus-for-suburban-chicago-wedding-transport-a-detailed-",
+      "title": "Cost of a Private Shuttle Bus for Suburban Chicago Wedding Transport: A Detailed Breakdown",
+      "description": "Understand the factors influencing the cost of hiring a private shuttle bus for your suburban Chicago wedding, including vehicle size, rental duration, mileage, and potential extra fees. Get a clear picture of budgeting for group transportation.",
+      "tags": [
+        "wedding transportation",
+        "suburban chicago",
+        "shuttle bus cost",
+        "group transportation",
+        "budgeting"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average cost ranges for private shuttle buses in suburban Chicago.",
+        "Factors impacting shuttle bus rental prices (vehicle capacity, hours, distance).",
+        "Understanding hourly vs. flat-rate pricing for wedding shuttles.",
+        "Hidden costs and how to avoid them (gratuity, mileage surcharges, cleaning fees)."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-sprinter-van-cost-for-a-chicago-bachelorette-party-in-the-suburb",
+      "slug": "how-much-does-a-sprinter-van-cost-for-a-chicago-bachelorette-party-in-the-suburb",
+      "title": "How Much Does a Sprinter Van Cost for a Chicago Bachelorette Party in the Suburbs?",
+      "description": "Get an estimate for the cost of renting a sprinter van for a bachelorette party in Chicago's suburbs. This guide breaks down pricing based on hours, mileage, and amenities, helping you budget for a memorable celebration.",
+      "tags": [
+        "bachelorette party",
+        "sprinter van rental",
+        "chicago suburbs",
+        "transportation cost",
+        "event planning"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly rates for sprinter van rentals for bachelorette parties.",
+        "Impact of distance and number of stops on overall cost.",
+        "Comparing costs for downtown Chicago vs. suburban bachelorette parties.",
+        "Tips for finding affordable sprinter van rentals."
       ],
       "status": "queued",
       "source": "daily-cycle"
