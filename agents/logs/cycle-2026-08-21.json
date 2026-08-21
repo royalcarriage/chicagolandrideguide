@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-21T16:07:26.177Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-shuttle\",\n  \"path\": \"content/posts/how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-shuttle.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 5\n}"
+}
