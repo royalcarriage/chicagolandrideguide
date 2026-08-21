@@ -864,8 +864,11 @@
         "Creating an itinerary for shuttle routes and pick-up/drop-off points.",
         "Contingency planning and communication with your shuttle provider."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-21",
+      "published_path": "content/posts/planning-a-chicago-wedding-shuttle-service-for-suburban-venues-a-timeline.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party",
