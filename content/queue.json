@@ -889,8 +889,11 @@
         "What's included in the cost: amenities, driver, mileage.",
         "Making the most of your budget: choosing the right vehicle for your group size and activities."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-22",
+      "published_path": "content/posts/cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transporta",
