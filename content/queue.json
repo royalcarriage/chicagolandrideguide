@@ -914,8 +914,11 @@
         "Tips for getting accurate quotes and budgeting for shuttle services",
         "Comparing shuttle bus costs to other wedding transportation options"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-23",
+      "published_path": "content/posts/how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transporta.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-a-private-shuttle-bus-for-suburban-chicago-wedding-transport-a-detailed-",
@@ -957,6 +960,138 @@
         "Impact of distance and number of stops on overall cost.",
         "Comparing costs for downtown Chicago vs. suburban bachelorette parties.",
         "Tips for finding affordable sprinter van rentals."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-renting-a-sprinter-van-for-a-chicago-wedding-guest-shuttle-in-the-suburb",
+      "slug": "cost-of-renting-a-sprinter-van-for-a-chicago-wedding-guest-shuttle-in-the-suburb",
+      "title": "Cost of Renting a Sprinter Van for a Chicago Wedding Guest Shuttle in the Suburbs",
+      "description": "Understand the typical costs associated with hiring a sprinter van to transport wedding guests between venues or hotels in Chicagoland's suburban areas. This guide breaks down pricing factors and helps you budget effectively.",
+      "tags": [
+        "sprinter van cost",
+        "wedding shuttle cost",
+        "suburban chicago wedding",
+        "guest transportation",
+        "wedding logistics"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly rates for sprinter van rentals for weddings.",
+        "Factors influencing cost: distance, duration, time of year.",
+        "Comparing sprinter van costs to other shuttle options for suburban weddings.",
+        "Tips for getting the best value on suburban wedding sprinter van rentals."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-group-transportation-for-a-chicago-wedding-reception-in-a-suburban-venu",
+      "slug": "planning-group-transportation-for-a-chicago-wedding-reception-in-a-suburban-venu",
+      "title": "Planning Group Transportation for a Chicago Wedding Reception in a Suburban Venue: A Timeline",
+      "description": "A detailed timeline to help couples plan seamless group transportation for their wedding reception held at a suburban Chicago venue, covering booking shuttles, limos, or party buses.",
+      "tags": [
+        "wedding transportation planning",
+        "suburban chicago wedding venue",
+        "group transportation timeline",
+        "wedding shuttle booking",
+        "reception logistics"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "12+ months out: Initial research and budget setting for transportation.",
+        "6-9 months out: Securing your preferred transportation provider and vehicle type.",
+        "3-4 months out: Confirming guest numbers and finalizing shuttle routes.",
+        "1 month out: Final confirmations and communication with guests."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-far-in-advance-should-i-book-a-party-bus-for-a-chicago-bears-game-at-soldier",
+      "slug": "how-far-in-advance-should-i-book-a-party-bus-for-a-chicago-bears-game-at-soldier",
+      "title": "How Far in Advance Should I Book a Party Bus for a Chicago Bears Game at Soldier Field?",
+      "description": "Get insights into the optimal booking timeline for securing a party bus for a Chicago Bears game day experience at Soldier Field, considering game dates and demand.",
+      "tags": [
+        "party bus booking timeline",
+        "chicago bears game",
+        "soldier field transportation",
+        "sports event transportation",
+        "group booking"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Peak season demand for Bears game transportation.",
+        "Recommended booking window for popular game days.",
+        "Factors that might require earlier booking (e.g., specific seating, large groups).",
+        "What happens if you book too late?"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party-in-the",
+      "slug": "cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party-in-the",
+      "title": "Cost Breakdown: Sprinter Van vs. Party Bus for a Chicago Bachelorette Party in the Suburbs",
+      "description": "A comparative cost analysis of renting a sprinter van versus a party bus for a bachelorette party taking place in the Chicago suburbs, helping you make an informed decision.",
+      "tags": [
+        "sprinter van cost",
+        "party bus cost",
+        "bachelorette party chicago suburbs",
+        "group transportation comparison",
+        "event budget"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly rates for sprinter vans and party buses in suburban Chicago.",
+        "Factors affecting pricing for each vehicle type.",
+        "Cost considerations based on itinerary and guest count.",
+        "Which option offers better value for different bachelorette party styles?"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "navigating-wedding-shuttle-logistics-for-suburban-chicago-venues-a-seasonal-guid",
+      "slug": "navigating-wedding-shuttle-logistics-for-suburban-chicago-venues-a-seasonal-guid",
+      "title": "Navigating Wedding Shuttle Logistics for Suburban Chicago Venues: A Seasonal Guide",
+      "description": "This guide provides seasonal considerations and logistical advice for planning wedding shuttle services for venues located in the suburbs of Chicago.",
+      "tags": [
+        "wedding shuttle planning",
+        "suburban chicago venues",
+        "seasonal wedding logistics",
+        "guest transportation management",
+        "venue coordination"
+      ],
+      "hub": "/venues/",
+      "outline": [
+        "Spring weddings: Navigating unpredictable weather and early blooms.",
+        "Summer weddings: Peak season demand and heat considerations.",
+        "Fall weddings: Foliage viewing opportunities and cooler temperatures.",
+        "Winter weddings: Snow, ice, and holiday event overlaps."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-private-shuttle-bus-cost-for-a-chicago-suburban-wedding-transpor",
+      "slug": "how-much-does-a-private-shuttle-bus-cost-for-a-chicago-suburban-wedding-transpor",
+      "title": "How Much Does a Private Shuttle Bus Cost for a Chicago Suburban Wedding Transport?",
+      "description": "Explore the cost factors and average pricing for hiring a private shuttle bus to transport wedding guests to and from venues in the Chicago suburbs.",
+      "tags": [
+        "private shuttle bus cost",
+        "suburban chicago wedding",
+        "wedding guest transportation",
+        "group shuttle pricing",
+        "transportation budget"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average cost per hour for private shuttle bus rentals.",
+        "Key variables impacting shuttle bus pricing (size, distance, duration).",
+        "Comparing private shuttle costs to other group transportation options.",
+        "Tips for optimizing shuttle bus rental costs for your suburban wedding."
       ],
       "status": "queued",
       "source": "daily-cycle"

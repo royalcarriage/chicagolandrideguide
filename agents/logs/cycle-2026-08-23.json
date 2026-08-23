@@ -1,0 +1,26 @@
+{
+  "at": "2026-08-23T16:04:07.769Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "seed_topics",
+      "ok": true,
+      "added": 6
+    },
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transporta\",\n  \"path\": \"content/posts/how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transporta.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 8\n}"
+}
