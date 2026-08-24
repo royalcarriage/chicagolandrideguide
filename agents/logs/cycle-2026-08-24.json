@@ -1,0 +1,21 @@
+{
+  "at": "2026-08-24T16:09:58.010Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": "{\n  \"published\": \"cost-of-a-private-shuttle-bus-for-suburban-chicago-wedding-transport-a-detailed-\",\n  \"path\": \"content/posts/cost-of-a-private-shuttle-bus-for-suburban-chicago-wedding-transport-a-detailed-.md\",\n  \"llm\": {\n    \"provider\": \"gemini\",\n    \"costUsd\": 0\n  },\n  \"zeroCost\": true,\n  \"remaining\": 7\n}"
+}

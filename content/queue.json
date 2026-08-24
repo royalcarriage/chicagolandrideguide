@@ -939,8 +939,11 @@
         "Understanding hourly vs. flat-rate pricing for wedding shuttles.",
         "Hidden costs and how to avoid them (gratuity, mileage surcharges, cleaning fees)."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-24",
+      "published_path": "content/posts/cost-of-a-private-shuttle-bus-for-suburban-chicago-wedding-transport-a-detailed-.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-sprinter-van-cost-for-a-chicago-bachelorette-party-in-the-suburb",
