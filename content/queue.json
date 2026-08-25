@@ -964,8 +964,11 @@
         "Comparing costs for downtown Chicago vs. suburban bachelorette parties.",
         "Tips for finding affordable sprinter van rentals."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-25",
+      "published_path": "content/posts/how-much-does-a-sprinter-van-cost-for-a-chicago-bachelorette-party-in-the-suburb.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-renting-a-sprinter-van-for-a-chicago-wedding-guest-shuttle-in-the-suburb",
