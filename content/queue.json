@@ -989,8 +989,11 @@
         "Comparing sprinter van costs to other shuttle options for suburban weddings.",
         "Tips for getting the best value on suburban wedding sprinter van rentals."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-08-28",
+      "published_path": "content/posts/cost-of-renting-a-sprinter-van-for-a-chicago-wedding-guest-shuttle-in-the-suburb.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-group-transportation-for-a-chicago-wedding-reception-in-a-suburban-venu",
