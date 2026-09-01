@@ -1014,8 +1014,11 @@
         "3-4 months out: Confirming guest numbers and finalizing shuttle routes.",
         "1 month out: Final confirmations and communication with guests."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-01",
+      "published_path": "content/posts/planning-group-transportation-for-a-chicago-wedding-reception-in-a-suburban-venu.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-far-in-advance-should-i-book-a-party-bus-for-a-chicago-bears-game-at-soldier",
