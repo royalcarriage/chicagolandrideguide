@@ -1039,8 +1039,11 @@
         "Factors that might require earlier booking (e.g., specific seating, large groups).",
         "What happens if you book too late?"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-04",
+      "published_path": "content/posts/how-far-in-advance-should-i-book-a-party-bus-for-a-chicago-bears-game-at-soldier.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party-in-the",
