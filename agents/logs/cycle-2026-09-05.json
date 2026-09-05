@@ -1,0 +1,22 @@
+{
+  "at": "2026-09-05T16:05:36.106Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "publish",
+      "ok": true,
+      "skipped": "cruise volume reached"
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": null
+}
