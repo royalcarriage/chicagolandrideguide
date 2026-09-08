@@ -1064,8 +1064,11 @@
         "Cost considerations based on itinerary and guest count.",
         "Which option offers better value for different bachelorette party styles?"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-08",
+      "published_path": "content/posts/cost-breakdown-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party-in-the.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "navigating-wedding-shuttle-logistics-for-suburban-chicago-venues-a-seasonal-guid",
