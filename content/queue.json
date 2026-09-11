@@ -1089,8 +1089,11 @@
         "Fall weddings: Foliage viewing opportunities and cooler temperatures.",
         "Winter weddings: Snow, ice, and holiday event overlaps."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-11",
+      "published_path": "content/posts/navigating-wedding-shuttle-logistics-for-suburban-chicago-venues-a-seasonal-guid.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-private-shuttle-bus-cost-for-a-chicago-suburban-wedding-transpor",
