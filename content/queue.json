@@ -1114,8 +1114,11 @@
         "Comparing private shuttle costs to other group transportation options.",
         "Tips for optimizing shuttle bus rental costs for your suburban wedding."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-15",
+      "published_path": "content/posts/how-much-does-a-private-shuttle-bus-cost-for-a-chicago-suburban-wedding-transpor.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-ceremony-and-rece",
