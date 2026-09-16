@@ -1228,6 +1228,27 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transport",
+      "slug": "how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transport",
+      "title": "How Much Does a Private Shuttle Bus Cost for Suburban Chicago Wedding Transport?",
+      "description": "Discover the average costs associated with hiring a private shuttle bus for wedding transportation in the Chicago suburbs. This article breaks down pricing factors and helps you budget for your special day.",
+      "tags": [
+        "private shuttle bus cost",
+        "suburban wedding transport",
+        "chicago wedding budget",
+        "wedding guest shuttle"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly and per-trip costs for private shuttle buses in suburban Chicago.",
+        "Factors influencing shuttle bus pricing (vehicle size, duration, distance).",
+        "Understanding potential hidden fees and surcharges.",
+        "Strategies for optimizing your shuttle bus rental budget for a suburban wedding."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
