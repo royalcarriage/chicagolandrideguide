@@ -1139,8 +1139,11 @@
         "Comparing sprinter van costs to other group transport options",
         "Tips for getting accurate quotes and booking your wedding sprinter van"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-18",
+      "published_path": "content/posts/how-much-does-a-sprinter-van-cost-for-a-chicago-suburb-wedding-ceremony-and-rece.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-group-transportation-for-a-chicago-wedding-ceremony-and-reception-in-a-",
