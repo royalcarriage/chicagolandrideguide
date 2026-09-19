@@ -1252,6 +1252,72 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-party-bus-cost-for-a-chicago-cubs-game-day-trip",
+      "slug": "how-much-does-a-party-bus-cost-for-a-chicago-cubs-game-day-trip",
+      "title": "How Much Does a Party Bus Cost for a Chicago Cubs Game Day Trip?",
+      "description": "Planning a group outing to Wrigleyville for a Cubs game? This guide breaks down the estimated costs of renting a party bus for your Chicago Cubs game day experience, helping you budget effectively.",
+      "tags": [
+        "party bus cost",
+        "Chicago Cubs",
+        "game day transportation",
+        "Wrigleyville",
+        "group transportation"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Average hourly rates for party buses in Chicago.",
+        "Factors influencing party bus costs for sports events (size, amenities, duration).",
+        "Estimating total cost for a Cubs game day trip (game time, pre-game, post-game).",
+        "Tips for saving money on party bus rentals for sporting events."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "how-far-in-advance-should-i-book-a-shuttle-service-for-a-suburban-chicago-weddin",
+      "slug": "how-far-in-advance-should-i-book-a-shuttle-service-for-a-suburban-chicago-weddin",
+      "title": "How Far in Advance Should I Book a Shuttle Service for a Suburban Chicago Wedding?",
+      "description": "Suburban Chicago weddings often require significant guest transportation. This guide provides essential timelines and booking advice for securing shuttle services for your suburban wedding, ensuring your guests arrive and depart smoothly.",
+      "tags": [
+        "shuttle service",
+        "suburban Chicago wedding",
+        "booking timeline",
+        "wedding transportation",
+        "guest logistics"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Recommended booking window for suburban wedding shuttles (months in advance).",
+        "Impact of wedding season on booking availability.",
+        "What information to have ready when booking.",
+        "Tips for confirming and finalizing shuttle arrangements."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "navigating-limo-vs-party-bus-for-a-chicago-blackhawks-game-day-experience-at-the",
+      "slug": "navigating-limo-vs-party-bus-for-a-chicago-blackhawks-game-day-experience-at-the",
+      "title": "Navigating Limo vs. Party Bus for a Chicago Blackhawks Game Day Experience at the United Center",
+      "description": "Heading to the United Center for a Blackhawks game? This guide helps you decide between a limo and a party bus for your group's game day transportation, considering cost, amenities, and the overall experience.",
+      "tags": [
+        "limo rental",
+        "party bus rental",
+        "Chicago Blackhawks",
+        "United Center",
+        "game day transportation"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Key differences between limos and party buses for sports events.",
+        "Cost considerations for each vehicle type for a Blackhawks game.",
+        "Ideal group sizes for each option.",
+        "Enhancing your game day experience with the right transportation."
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
