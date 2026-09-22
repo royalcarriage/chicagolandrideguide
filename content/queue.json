@@ -1164,8 +1164,11 @@
         "3-4 months out: Confirm details and finalize guest count",
         "1 month out: Finalize itinerary and communicate with guests"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-22",
+      "published_path": "content/posts/planning-group-transportation-for-a-chicago-wedding-ceremony-and-reception-in-a-.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-breakdown-party-bus-vs-sprinter-van-for-a-chicago-bachelorette-party-in-the",
