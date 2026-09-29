@@ -1214,8 +1214,11 @@
         "What's typically included in a party bus rental for a game?",
         "Tips for securing the best deal for your Blackhawks game transportation"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-09-29",
+      "published_path": "content/posts/cost-of-renting-a-party-bus-for-a-chicago-blackhawks-game-at-the-united-center-w.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-sprinter-van-cost-for-a-chicago-wedding-ceremony-and-reception-i",
