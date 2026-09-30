@@ -1327,6 +1327,28 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-renting-a-sprinter-van-for-a-chicago-suburb-wedding-ceremony-and-recepti",
+      "slug": "cost-of-renting-a-sprinter-van-for-a-chicago-suburb-wedding-ceremony-and-recepti",
+      "title": "Cost of Renting a Sprinter Van for a Chicago Suburb Wedding Ceremony and Reception",
+      "description": "Detailed breakdown of sprinter van rental costs when used for both ceremony and reception transportation at suburban Chicago wedding venues, considering hourly rates, mileage, and potential surcharges.",
+      "tags": [
+        "sprinter van cost",
+        "suburban chicago wedding",
+        "wedding transportation",
+        "ceremony and reception",
+        "hourly rate"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Factors influencing sprinter van costs for suburban weddings",
+        "Average hourly rates for sprinter van rentals",
+        "Understanding mileage charges and their impact",
+        "When to book a sprinter van for ceremony and reception transport"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
