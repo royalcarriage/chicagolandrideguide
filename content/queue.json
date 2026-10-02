@@ -1238,8 +1238,11 @@
         "Average cost ranges for suburban Chicago wedding shuttles",
         "Tips for getting the best value on sprinter van rentals for your wedding"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-02",
+      "published_path": "content/posts/how-much-does-a-sprinter-van-cost-for-a-chicago-wedding-ceremony-and-reception-i.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transport",
