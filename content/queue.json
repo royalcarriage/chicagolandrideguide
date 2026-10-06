@@ -1262,8 +1262,11 @@
         "Understanding potential hidden fees and surcharges.",
         "Strategies for optimizing your shuttle bus rental budget for a suburban wedding."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-06",
+      "published_path": "content/posts/how-much-does-a-private-shuttle-bus-cost-for-suburban-chicago-wedding-transport.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-party-bus-cost-for-a-chicago-cubs-game-day-trip",
