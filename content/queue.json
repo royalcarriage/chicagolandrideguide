@@ -1377,6 +1377,48 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-charter-bus-cost-for-a-chicago-suburban-wedding-a-detailed-break",
+      "slug": "how-much-does-a-charter-bus-cost-for-a-chicago-suburban-wedding-a-detailed-break",
+      "title": "How Much Does a Charter Bus Cost for a Chicago Suburban Wedding? A Detailed Breakdown",
+      "description": "Planning a wedding in the Chicago suburbs? Understand the cost factors involved in chartering a bus for your guests, including vehicle size, rental duration, and additional services.",
+      "tags": [
+        "charter bus cost",
+        "suburban wedding transportation",
+        "Chicago wedding",
+        "wedding shuttle cost"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Understanding Charter Bus Pricing Structures",
+        "Factors Influencing Charter Bus Costs for Suburban Weddings",
+        "Average Cost Ranges for Different Charter Bus Sizes",
+        "Tips for Budgeting and Saving on Charter Bus Rentals for Weddings"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-benefit-analysis-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party",
+      "slug": "cost-benefit-analysis-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party",
+      "title": "Cost-Benefit Analysis: Sprinter Van vs. Party Bus for a Chicago Bachelorette Party in the Suburbs",
+      "description": "Deciding between a sprinter van and a party bus for your suburban Chicago bachelorette party? Compare costs, amenities, and suitability for different group sizes and itineraries.",
+      "tags": [
+        "sprinter van vs party bus",
+        "bachelorette party transportation",
+        "suburban Chicago",
+        "cost comparison"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Understanding the Core Differences: Sprinter Van vs. Party Bus",
+        "Cost Breakdown for Sprinter Van Rentals in Suburbs",
+        "Cost Breakdown for Party Bus Rentals in Suburbs",
+        "Factors to Consider Beyond Cost: Itinerary, Group Size, and Vibe"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
