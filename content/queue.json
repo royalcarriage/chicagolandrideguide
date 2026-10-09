@@ -1287,8 +1287,11 @@
         "Estimating total cost for a Cubs game day trip (game time, pre-game, post-game).",
         "Tips for saving money on party bus rentals for sporting events."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-09",
+      "published_path": "content/posts/how-much-does-a-party-bus-cost-for-a-chicago-cubs-game-day-trip.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-far-in-advance-should-i-book-a-shuttle-service-for-a-suburban-chicago-weddin",
