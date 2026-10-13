@@ -1312,8 +1312,11 @@
         "What information to have ready when booking.",
         "Tips for confirming and finalizing shuttle arrangements."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-13",
+      "published_path": "content/posts/how-far-in-advance-should-i-book-a-shuttle-service-for-a-suburban-chicago-weddin.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "navigating-limo-vs-party-bus-for-a-chicago-blackhawks-game-day-experience-at-the",
