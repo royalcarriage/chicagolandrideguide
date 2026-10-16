@@ -1337,8 +1337,11 @@
         "Ideal group sizes for each option.",
         "Enhancing your game day experience with the right transportation."
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-16",
+      "published_path": "content/posts/navigating-limo-vs-party-bus-for-a-chicago-blackhawks-game-day-experience-at-the.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-renting-a-sprinter-van-for-a-chicago-suburb-wedding-ceremony-and-recepti",
