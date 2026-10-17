@@ -1428,6 +1428,27 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-charter-bus-cost-for-suburban-chicago-weddings",
+      "slug": "how-much-does-a-charter-bus-cost-for-suburban-chicago-weddings",
+      "title": "How Much Does a Charter Bus Cost for Suburban Chicago Weddings?",
+      "description": "Get a detailed breakdown of charter bus rental costs for suburban Chicago weddings, including factors that influence pricing and tips for budgeting.",
+      "tags": [
+        "charter bus cost",
+        "suburban chicago wedding",
+        "wedding transportation budget",
+        "wedding logistics"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Understanding charter bus pricing structures",
+        "Factors influencing charter bus costs for weddings (distance, duration, bus size)",
+        "Average cost ranges for charter buses in suburban Chicago",
+        "Tips for getting the best charter bus quote for your wedding"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
