@@ -1449,6 +1449,27 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-down",
+      "slug": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-down",
+      "title": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-downtown-vs-suburbs",
+      "description": "Create a memorable Chicago bachelorette party with a detailed sprinter van itinerary and budget, comparing the planning considerations and costs for downtown festivities versus suburban adventures.",
+      "tags": [
+        "bachelorette party itinerary",
+        "sprinter van rental",
+        "chicago bachelorette",
+        "downtown vs suburbs"
+      ],
+      "hub": "/events/",
+      "outline": [
+        "Defining your bachelorette party's vibe: Downtown excitement or suburban relaxation",
+        "Estimating sprinter van rental costs for a full-day or multi-day rental",
+        "Crafting an itinerary: Balancing travel time, activities, and dining",
+        "Budgeting for the sprinter van and other bachelorette party expenses"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
