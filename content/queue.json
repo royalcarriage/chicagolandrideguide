@@ -1473,6 +1473,28 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-hiring-a-charter-bus-for-suburban-chicago-weddings-a-detailed-breakdown",
+      "slug": "cost-of-hiring-a-charter-bus-for-suburban-chicago-weddings-a-detailed-breakdown",
+      "title": "Cost of Hiring a Charter Bus for Suburban Chicago Weddings: A Detailed Breakdown",
+      "description": "Understand the pricing factors and get a detailed cost breakdown for charter bus rentals for weddings in Chicago's suburbs, helping you budget effectively.",
+      "tags": [
+        "charter bus cost",
+        "suburban chicago wedding",
+        "wedding transportation budget",
+        "group transportation",
+        "wedding logistics"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Factors influencing charter bus costs for weddings",
+        "Average hourly and per-mile rates for charter buses in suburban Chicago",
+        "Hidden fees and what to look out for",
+        "Tips for getting the best value on a wedding charter bus rental"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
