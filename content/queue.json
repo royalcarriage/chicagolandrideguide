@@ -1387,8 +1387,11 @@
         "Typical Cost Ranges for Suburban Wedding Sprinter Van Rentals",
         "Tips for Budgeting and Booking Your Suburban Wedding Sprinter Van"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-23",
+      "published_path": "content/posts/cost-of-hiring-a-sprinter-van-for-a-chicago-suburban-wedding-ceremony-and-recept.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-charter-bus-cost-for-a-chicago-suburban-wedding-a-detailed-break",
