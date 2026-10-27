@@ -1411,8 +1411,11 @@
         "Average Cost Ranges for Different Charter Bus Sizes",
         "Tips for Budgeting and Saving on Charter Bus Rentals for Weddings"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-27",
+      "published_path": "content/posts/how-much-does-a-charter-bus-cost-for-a-chicago-suburban-wedding-a-detailed-break.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-benefit-analysis-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party",
