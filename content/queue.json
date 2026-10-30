@@ -1435,8 +1435,11 @@
         "Cost Breakdown for Party Bus Rentals in Suburbs",
         "Factors to Consider Beyond Cost: Itinerary, Group Size, and Vibe"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-10-30",
+      "published_path": "content/posts/cost-benefit-analysis-sprinter-van-vs-party-bus-for-a-chicago-bachelorette-party.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-charter-bus-cost-for-suburban-chicago-weddings",
