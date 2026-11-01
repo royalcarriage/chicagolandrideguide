@@ -1,0 +1,32 @@
+{
+  "at": "2026-11-01T16:03:39.067Z",
+  "health": {
+    "/": "ERR",
+    "/costs/": "ERR",
+    "/blog/": "ERR",
+    "/sitemap.xml": "ERR",
+    "/ads.txt": "ERR"
+  },
+  "actions": [
+    {
+      "step": "seed_topics",
+      "ok": false,
+      "error": "Unterminated string in JSON at position 286 (line 4 column 176)"
+    },
+    {
+      "step": "seed_topics",
+      "ok": true,
+      "added": 0
+    },
+    {
+      "step": "publish",
+      "ok": true,
+      "skipped": "cruise volume reached"
+    },
+    {
+      "step": "rebuild",
+      "ok": true
+    }
+  ],
+  "publishedNow": null
+}
