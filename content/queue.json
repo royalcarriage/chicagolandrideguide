@@ -1459,8 +1459,11 @@
         "Average cost ranges for charter buses in suburban Chicago",
         "Tips for getting the best charter bus quote for your wedding"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-03",
+      "published_path": "content/posts/how-much-does-a-charter-bus-cost-for-suburban-chicago-weddings.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-down",
