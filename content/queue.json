@@ -1547,6 +1547,72 @@
       ],
       "status": "queued",
       "source": "daily-cycle"
+    },
+    {
+      "id": "how-much-does-a-charter-bus-cost-for-a-chicago-wedding-guest-shuttle",
+      "slug": "how-much-does-a-charter-bus-cost-for-a-chicago-wedding-guest-shuttle",
+      "title": "how-much-does-a-charter-bus-cost-for-a-chicago-wedding-guest-shuttle",
+      "description": "Understand the pricing factors and average costs associated with chartering a bus for wedding guest transportation in Chicago suburbs.",
+      "tags": [
+        "charter bus cost",
+        "wedding shuttle",
+        "suburban chicago weddings",
+        "guest transportation",
+        "wedding planning"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Factors influencing charter bus costs for weddings",
+        "Average cost ranges for charter buses in Chicago suburbs",
+        "Tips for budgeting charter bus wedding transportation",
+        "Comparing charter bus costs to other group transportation options"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-subu",
+      "slug": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-subu",
+      "title": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-suburbs",
+      "description": "Create the perfect bachelorette party itinerary and budget using a sprinter van for suburban Chicago destinations.",
+      "tags": [
+        "bachelorette party",
+        "sprinter van",
+        "suburban chicago",
+        "itinerary planning",
+        "budgeting"
+      ],
+      "hub": "/guides/",
+      "outline": [
+        "Choosing the right sprinter van for your group size",
+        "Designing a suburban bachelorette party itinerary",
+        "Estimating sprinter van rental costs for a weekend",
+        "Budgeting for activities and dining alongside transportation"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
+    },
+    {
+      "id": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-at-soldier-field-on-a-sunda",
+      "slug": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-at-soldier-field-on-a-sunda",
+      "title": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-at-soldier-field-on-a-sunday",
+      "description": "Understand the cost implications of renting a party bus for a Chicago Bears game day at Soldier Field, focusing on Sunday games.",
+      "tags": [
+        "party bus cost",
+        "bears game",
+        "soldier field",
+        "sunday games",
+        "group transportation"
+      ],
+      "hub": "/costs/",
+      "outline": [
+        "Typical hourly rates for game day party bus rentals",
+        "Factors that influence pricing for Bears games",
+        "Cost breakdown: rental time, mileage, and potential surcharges",
+        "Tips for saving money on game day transportation"
+      ],
+      "status": "queued",
+      "source": "daily-cycle"
     }
   ]
 }
