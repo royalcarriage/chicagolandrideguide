@@ -1483,8 +1483,11 @@
         "Crafting an itinerary: Balancing travel time, activities, and dining",
         "Budgeting for the sprinter van and other bachelorette party expenses"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-06",
+      "published_path": "content/posts/planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-down.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-hiring-a-charter-bus-for-suburban-chicago-weddings-a-detailed-breakdown",
