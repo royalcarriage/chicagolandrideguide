@@ -1532,8 +1532,11 @@
         "Hidden fees and surcharges to watch out for",
         "Tips for getting the best value on your charter bus rental"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-13",
+      "published_path": "content/posts/cost-of-a-charter-bus-for-suburban-chicago-weddings-a-detailed-breakdown.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "what-s-the-cost-of-a-charter-bus-for-suburban-chicago-weddings-a-detailed-breakd",
