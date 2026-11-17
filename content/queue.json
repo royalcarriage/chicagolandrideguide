@@ -1557,8 +1557,11 @@
         "Average cost ranges for charter buses in suburban Chicago",
         "Strategies for optimizing charter bus rental costs for weddings"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-17",
+      "published_path": "content/posts/what-s-the-cost-of-a-charter-bus-for-suburban-chicago-weddings-a-detailed-breakd.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "how-much-does-a-charter-bus-cost-for-a-chicago-wedding-guest-shuttle",
