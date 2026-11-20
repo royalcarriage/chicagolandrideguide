@@ -1582,8 +1582,11 @@
         "Tips for budgeting charter bus wedding transportation",
         "Comparing charter bus costs to other group transportation options"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-20",
+      "published_path": "content/posts/how-much-does-a-charter-bus-cost-for-a-chicago-wedding-guest-shuttle.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-subu",
