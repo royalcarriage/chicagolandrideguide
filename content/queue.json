@@ -1607,8 +1607,11 @@
         "Estimating sprinter van rental costs for a weekend",
         "Budgeting for activities and dining alongside transportation"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-24",
+      "published_path": "content/posts/planning-a-chicago-bachelorette-party-sprinter-van-itinerary-and-budget-for-subu.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "cost-of-renting-a-party-bus-for-a-chicago-bears-game-at-soldier-field-on-a-sunda",
