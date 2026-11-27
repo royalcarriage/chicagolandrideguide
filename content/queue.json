@@ -1632,8 +1632,11 @@
         "Cost breakdown: rental time, mileage, and potential surcharges",
         "Tips for saving money on game day transportation"
       ],
-      "status": "queued",
-      "source": "daily-cycle"
+      "status": "published",
+      "source": "daily-cycle",
+      "published_at": "2026-11-27",
+      "published_path": "content/posts/cost-of-renting-a-party-bus-for-a-chicago-bears-game-at-soldier-field-on-a-sunda.md",
+      "llm_provider": "gemini"
     },
     {
       "id": "chicago-suburban-wedding-shuttle-costs-charter-bus-vs-sprinter-van",
